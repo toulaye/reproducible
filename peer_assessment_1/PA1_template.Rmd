@@ -1,12 +1,3 @@
----
-output:
-  html_document:
-    fig_height: 6
-    fig_width: 8
-    keep_md: yes
-    number_sections: yes
-  pdf_document: default
----
 ## Loading and preprocessing the data
 
 
